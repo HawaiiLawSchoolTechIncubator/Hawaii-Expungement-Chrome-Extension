@@ -1,3 +1,7 @@
+# THIS REPOSITORY IS NO LONGER MAINTAINED.
+For the version that is currently available on the chrome store please visit.
+ https://github.com/HawaiiLawSchoolTechIncubator/Hawaii-Bench-Warrant-Recall-Chrome-Extension
+
 # ExpungementKokuaCE
 This extension assesses whether a Hawaii criminal defendant's records can be expunged by examining case record pages on the state judiciary's eCourt Kokua site. After assessing case records, the expungement form and the letter to be sent to the appropriate administrative judge may be generated to request expungement of the defendant's records.
 
